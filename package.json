@@ -52,7 +52,7 @@
   "homepage": "http://json5.org/",
   "devDependencies": {
     "core-js": "^2.6.12",
-    "eslint": "^5.15.3",
+    "eslint": "^5.16.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-node": "^8.0.1",
