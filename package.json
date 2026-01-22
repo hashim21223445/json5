@@ -65,7 +65,7 @@
     "rollup-plugin-commonjs": "^9.3.4",
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-terser": "^1.0.1",
-    "sinon": "^6.3.5",
+    "sinon": "^21.0.1",
     "tap": "^18.0.0",
     "unicode-10.0.0": "^0.7.5"
   }
